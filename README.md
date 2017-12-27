@@ -8,8 +8,8 @@ In this analysis, I explored the reasons why employees leave a firm prematurely.
 The dataset consists of following factors(column),
 Satisfaction Level
 Last evaluation
-    - Number of projects
-    - Average monthly hours
+    - Number of projects<br>
+    - Average monthly hours
     - Time spent at the company
     - Whether they have had a work accident
     - Whether they have had a promotion in the last 5 years
