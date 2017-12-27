@@ -20,4 +20,4 @@ The dataset consists of following factors(column),
 </pre>
     
 
-![alt text](https://github.com/Aiden-Ahn/SQL/blob/master/table1.png "Title")
+		![alt text](https://github.com/Aiden-Ahn/SQL/blob/master/table1.png "Title")
