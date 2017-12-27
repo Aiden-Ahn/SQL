@@ -5,9 +5,10 @@ There are many possible factors affecting on employees leaving a firm.
 
 In this analysis, I explored the reasons why employees leave a firm prematurely.
 
-The dataset consists of following factors(column),
-Satisfaction Level
-Last evaluation
+The dataset consists of following factors(column), 
+<pre>
+	- Satisfaction Level
+	- Last evaluation
     - Number of projects<br>
     - Average monthly hours
     - Time spent at the company
@@ -16,7 +17,7 @@ Last evaluation
     - Departments (column sales)
     - Salary
     - Whether the employee has left
-    
+</pre>
     
 ![Alt text](/Users/aiden/Dcouments/Git image/table1.png?raw=true "Title")
 
