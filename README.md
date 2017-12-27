@@ -9,7 +9,7 @@ The dataset consists of following factors(column),
 <pre>
 	- Satisfaction Level
 	- Last evaluation
-	- Number of projects<br>
+	- Number of projects
   	- Average monthly hours
     	- Time spent at the company
     	- Whether they have had a work accident
@@ -19,6 +19,5 @@ The dataset consists of following factors(column),
     	- Whether the employee has left
 </pre>
     
-![Alt text](/Users/aiden/Dcouments/Git image/table1.png?raw=true "Title")
 
-![alt text](/Untitled/Users/aiden/Documents/Gitimage/table1.png)
+![alt text](https://github.com/Aiden-Ahn/SQL/blob/master/table1.png "Title")
