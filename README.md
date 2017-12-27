@@ -9,14 +9,14 @@ The dataset consists of following factors(column),
 <pre>
 	- Satisfaction Level
 	- Last evaluation
-    - Number of projects<br>
-    - Average monthly hours
-    - Time spent at the company
-    - Whether they have had a work accident
-    - Whether they have had a promotion in the last 5 years
-    - Departments (column sales)
-    - Salary
-    - Whether the employee has left
+	- Number of projects<br>
+  	- Average monthly hours
+    	- Time spent at the company
+    	- Whether they have had a work accident
+    	- Whether they have had a promotion in the last 5 years
+    	- Departments (column sales)
+    	- Salary
+    	- Whether the employee has left
 </pre>
     
 ![Alt text](/Users/aiden/Dcouments/Git image/table1.png?raw=true "Title")
